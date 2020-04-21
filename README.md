@@ -1,2 +1,2 @@
 # Cs4182-project.
-Micheal English project
+Michael English project.
