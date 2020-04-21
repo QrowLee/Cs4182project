@@ -1,0 +1,69 @@
+TY  - BOOK
+T1  - Cryptography and network security
+A1  - Kahate, Atul
+SN  - 1259029883
+Y1  - 2013
+PB  - Tata McGraw-Hill Education
+ER  - 
+
+
+TY  - BOOK
+T1  - Primality and cryptography
+A1  - Kranakis, Evangelos
+SN  - 332296647X
+Y1  - 2013
+PB  - Springer-Verlag
+ER  - 
+
+
+TY  - JOUR
+T1  - Introduction to modern cryptography
+A1  - Bellare, Mihir
+A1  - Rogaway, Phillip
+JO  - Ucsd Cse
+VL  - 207
+SP  - 207
+Y1  - 2005
+ER  - 
+
+
+TY  - BOOK
+T1  - Codes and ciphers-A history of cryptography
+A1  - D'agapeyeff, Alexander
+SN  - 1473350913
+Y1  - 2016
+PB  - Read Books Ltd
+ER  - 
+
+
+TY  - JOUR
+T1  - A brief history of cryptography
+A1  - Davies, Donald
+JO  - Information Security Technical Report
+VL  - 2
+IS  - 2
+SP  - 14
+EP  - 17
+SN  - 1363-4127
+Y1  - 1997
+PB  - Elsevier
+ER  - 
+
+
+TY  - JOUR
+T1  - Quantum cryptography
+A1  - Hughes, Richard J
+A1  - Alde, Douglas M
+A1  - Dyer, P
+A1  - Luther, Gabriel G
+A1  - Morgan, George L
+A1  - Schauer, M
+JO  - Contemporary Physics
+VL  - 36
+IS  - 3
+SP  - 149
+EP  - 163
+SN  - 0010-7514
+Y1  - 1995
+PB  - Taylor & Francis
+ER  - 
