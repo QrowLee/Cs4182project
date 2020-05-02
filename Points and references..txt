@@ -1,0 +1,17 @@
+brief history of cryptography.
+
+
+	Early History.
+Khnumontep 2 tomb protoCryptography. 
+
+Caesar Cypher first actual use of cryptography to hide messages.
+
+Vignere cipher first use of encryption key
+
+	Cryptography and early computing.
+Hebern rotor machine.
+Enigma.and Bombe machine.
+
+Early modern history.
+Ibm crypto group and Lucifer(D.E.S. Data Encryption Standard)
+1997 NIST encryption (Advanced Encryption standard).
