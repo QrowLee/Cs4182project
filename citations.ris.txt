@@ -67,3 +67,8 @@ SN  - 0010-7514
 Y1  - 1995
 PB  - Taylor & Francis
 ER  - 
+
+
+Modern Cryptanalysis: Techniques for Advanced Code Breaking
+Rot13 pg 5. Rot13 new application of caesar cypher.
+https://books.google.ie/books?id=oLoaWgdmFJ8C&pg=PA5&redir_esc=y#v=onepage&q&f=false
